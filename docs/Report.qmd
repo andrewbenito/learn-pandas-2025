@@ -1,5 +1,6 @@
 ---
 title: "Untitled"
+subtitle: "subtitle"
 author: Andrew Benito
 date: last-modified
 format: html
@@ -8,6 +9,7 @@ toc: True
 
 # Introduction
 
+# Data analysis
 
 # Conclusions
 
